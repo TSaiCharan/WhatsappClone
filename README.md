@@ -80,5 +80,35 @@ To learn more about React Native, take a look at the following resources:
 
 
 Screenshots:
-1) Registration:![WhatsApp Image 2024-04-20 at 00 33 12_0fa4c727](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/53b8cfd5-cbf6-49a2-90b7-369394628070)
+1) Registration:
+![WhatsApp Image 2024-04-20 at 00 33 12_0fa4c727](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/53b8cfd5-cbf6-49a2-90b7-369394628070)
+
+2) OTP Authentication:
+![WhatsApp Image 2024-04-20 at 06 50 30_70ae766a](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/883cefd2-5a3d-4706-be00-93a5a2fd0a37)
+
+3) Home Screen:
+![WhatsApp Image 2024-04-20 at 06 50 33_d28502e8](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/e8465875-e015-48ea-80f5-4c1fbd137071)
+
+4) One-to-One Chat History:
+![WhatsApp Image 2024-04-20 at 06 50 31_a11b94bd](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/d3b88885-d9e8-47eb-b9ad-92ddfa6e70fd)
+
+5) Profile:
+![WhatsApp Image 2024-04-20 at 06 50 34_585d7040](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/f3dc0e1d-d82b-4ecc-94ce-49f594c521b8)
+
+6) Search:
+![WhatsApp Image 2024-04-20 at 06 50 31_344bec72](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/33bdd23e-8bcf-4b01-aec8-3756a605a654)
+
+7) Gropup:
+![WhatsApp Image 2024-04-20 at 06 50 32_5eb1d6a2](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/79ac9fcb-0169-4436-abaf-f485456fa911)
+![WhatsApp Image 2024-04-20 at 06 50 33_479affce](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/47636c1e-6712-4a5b-a4ef-ee9654f37eb6)
+
+
+
+Demonstration of working of app:
+
+
+
+
+
+
 
