@@ -80,5 +80,5 @@ To learn more about React Native, take a look at the following resources:
 
 
 Screenshots:
-1) Registration:![WhatsApp Image 2024-04-20 at 00 33 12_0fa4c727](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/53b8cfd5-cbf6-49a2-90b7-369394628070 | 250x250)
+1) Registration:![WhatsApp Image 2024-04-20 at 00 33 12_0fa4c727](https://github.com/TSaiCharan/WhatsappClone/assets/55942120/53b8cfd5-cbf6-49a2-90b7-369394628070 = 250x250)
 
